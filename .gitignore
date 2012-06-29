@@ -1,1 +1,3 @@
 bussmsdb
+venv
+*.pyc

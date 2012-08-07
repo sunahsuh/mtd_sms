@@ -12,7 +12,6 @@ available here: http://developer.cumtd.com/
 Functions return a python dictionary of the parsed JSON result.
 """
 class CumtdApi:
-    key = None
     # TODO: Add XML support if there's a demand
     data_format = 'json' # default to json
     base_url = BASE_URL
